@@ -29,4 +29,14 @@ Customer Distribution by number of orders
 Top 10 Customers by Profit (with Last Order Date)
 Clean layout for business analysis
 
+⭐ Key Insights
+Clear upward trend in Q3 & Q4 for both sales and profit
+Certain categories show losses, impacting total profitability
+Customer distribution shows that repeat customers drive major sales
+Top customers significantly influence yearly profit
+
+🚀 About Me
+I am a Business Analyst / Data Analyst experienced in dashboard design, KPI reporting, and data storytelling.
+I am actively seeking full-time opportunities.
+
 README.md
